@@ -1,0 +1,5 @@
+com\nc\upload\controller\UploadController.class
+com\nc\upload\NcUploadApplication.class
+com\nc\upload\config\FastClientImporter.class
+com\nc\upload\config\NcCorsConfiguration.class
+com\nc\upload\service\UploadService.class

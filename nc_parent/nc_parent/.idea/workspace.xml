@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dfa18b8-a53b-48c1-96e0-f148f985cdb1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/nc-registry/target/" />
+    <ignored path="$PROJECT_DIR$/nc-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/nc-item/target/" />
+    <ignored path="$PROJECT_DIR$/nc-common/target/" />
+    <ignored path="$PROJECT_DIR$/nc-item/nc-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/nc-item/nc-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/nc-upload/target/" />
+    <ignored path="$PROJECT_DIR$/nc-search/target/" />
+    <ignored path="$PROJECT_DIR$/nc-goods-web/target/" />
+    <ignored path="$PROJECT_DIR$/nc-user/target/" />
+    <ignored path="$PROJECT_DIR$/nc-user/nc-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/nc-user/nc-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/nc-sms-service/target/" />
+    <ignored path="$PROJECT_DIR$/nc_sms_service/target/" />
+    <ignored path="$PROJECT_DIR$/nc-auth/target/" />
+    <ignored path="$PROJECT_DIR$/nc-auth/nc-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/nc-auth/nc-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/nc-cart/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/pojo/Cart.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/controller/CartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/service/CartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/NcCartApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nc-cart/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/client/GoodsClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-item/nc-item-interface/src/main/java/com/nc/item/api/GoodsApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/service/GoodsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="182" column="48" selection-start-line="182" selection-start-column="48" selection-end-line="182" selection-end-column="48" />
+              <folding>
+                <element signature="e#5920#5921#0" expanded="true" />
+                <element signature="e#5951#5952#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var itemVue</find>
+      <find>images</find>
+      <find>intro-detail</find>
+      <find>addCart</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nc-sms-service/src/main/java/com/nc/config/SmsProperties.java" />
+        <option value="$PROJECT_DIR$/nc-sms-service/src/main/java/com/nc/NcSmsApplication.java" />
+        <option value="$PROJECT_DIR$/nc-sms-service/pom.xml" />
+        <option value="$PROJECT_DIR$/nc_sms_service/src/main/resources/appliaction.yml" />
+        <option value="$PROJECT_DIR$/nc_sms_service/src/main/java/com/nc/config/SmsProperties.java" />
+        <option value="$PROJECT_DIR$/nc_sms_service/src/main/java/com/nc/utils/SmsUtils.java" />
+        <option value="$PROJECT_DIR$/nc_sms_service/src/main/java/com/nc/listener/SmsListener.java" />
+        <option value="$PROJECT_DIR$/nc_sms_service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/nc_sms_service/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-common/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-common/src/main/java/com/nc/common/utils/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-interface/src/main/java/com/nc/user/pojo/User.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/nc_sms_service/src/main/java/com/nc/NcSMSApplication.java" />
+        <option value="$PROJECT_DIR$/nc-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/NcAuthApplication.java" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-common/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/service/AuthService.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-interface/src/main/java/com/nc/user/api/UserApi.java" />
+        <option value="$PROJECT_DIR$/nc-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-gateway/src/main/java/com/nc/gateway/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/nc-gateway/src/main/java/com/nc/gateway/config/FilterProperties.java" />
+        <option value="$PROJECT_DIR$/nc-gateway/src/main/java/com/nc/gateway/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/src/test/java/TestDemo.java" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/test/java/com/nc/auth/test/TestDemo.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/src/test/java/com/nc/user/test/TestDemo.java" />
+        <option value="$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/src/main/java/com/nc/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/nc-user/nc-user-service/src/main/java/com/nc/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/NcCartApplication.java" />
+        <option value="$PROJECT_DIR$/nc-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/config/JwtProperties.java" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/client/GoodsClient.java" />
+        <option value="$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/nc-item/nc-item-interface/src/main/java/com/nc/item/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/service/CartService.java" />
+        <option value="$PROJECT_DIR$/nc-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/nc-cart/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nc_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nc_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="697" />
+    <option name="y" value="86" />
+    <option name="width" value="1608" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-goods-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nc_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nc_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item" type="462c0819:PsiDirectoryNode" />
+              <item name="nc-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/nc-search/src/main/java/com/nc/search" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nc-goods-web/src/main/resources/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nc.search.client" />
+      <recent name="com.nc.item.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\nc_parent\nc-goods-web\src\main\resources\templates" />
+      <recent name="F:\nc_parent\nc-common\src\main\java\com\nc\common\utils" />
+      <recent name="F:\nc_parent\nc-auth\nc-auth-common\src\main\java\com\nc\auth\entity" />
+      <recent name="F:\nc_parent\nc-auth\nc-auth-common\src\main\java\com\nc\auth\utils" />
+      <recent name="F:\nc_parent\nc-goods-web\src\main\java\com\nc\goods\client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.25108224" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.NcCartApplication">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nc.user.test.TestDemo" />
+      <module name="nc-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nc.user.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.testDemo (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nc-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nc.user.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nc.user.test" />
+      <option name="MAIN_CLASS_NAME" value="com.nc.user.test.TestDemo" />
+      <option name="METHOD_NAME" value="testDemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.auth.NcAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nc-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nc.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.cart.NcCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.gateway.NcGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcGoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nc-goods-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nc.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.goods.NcGoodsWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.item.NcItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.common.registry.NcRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcSMSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nc_sms_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.NcSMSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.search.NcSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.upload.NcUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NcUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nc-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nc.user.NcUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestDemo" />
+      <item itemvalue="JUnit.TestDemo.testDemo (2)" />
+      <item itemvalue="Spring Boot.NcAuthApplication" />
+      <item itemvalue="Spring Boot.NcGatewayApplication" />
+      <item itemvalue="Spring Boot.NcItemServiceApplication" />
+      <item itemvalue="Spring Boot.NcRegistryApplication" />
+      <item itemvalue="Spring Boot.NcSearchServiceApplication" />
+      <item itemvalue="Spring Boot.NcUploadApplication" />
+      <item itemvalue="Spring Boot.NcUserApplication" />
+      <item itemvalue="Spring Boot.NcGoodsWebApplication" />
+      <item itemvalue="Spring Boot.NcSMSApplication" />
+      <item itemvalue="Spring Boot.NcCartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.NcCartApplication" />
+        <item itemvalue="Spring Boot.NcGoodsWebApplication" />
+        <item itemvalue="Spring Boot.NcSMSApplication" />
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="JUnit.TestDemo.testDemo (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dfa18b8-a53b-48c1-96e0-f148f985cdb1" name="Default Changelist" comment="" />
+      <created>1577619201183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577619201183</updated>
+      <workItem from="1577619203982" duration="245000" />
+      <workItem from="1577619486414" duration="6594000" />
+      <workItem from="1577668342174" duration="997000" />
+      <workItem from="1577672939141" duration="6943000" />
+      <workItem from="1577758126022" duration="9083000" />
+      <workItem from="1577947377171" duration="3248000" />
+      <workItem from="1578050238379" duration="4591000" />
+      <workItem from="1578099570691" duration="262000" />
+      <workItem from="1578452715470" duration="12301000" />
+      <workItem from="1578532441878" duration="9955000" />
+      <workItem from="1578621823177" duration="2669000" />
+      <workItem from="1578798870112" duration="3290000" />
+      <workItem from="1578818672431" duration="154000" />
+      <workItem from="1578818835599" duration="4142000" />
+      <workItem from="1578824674779" duration="2013000" />
+      <workItem from="1578878408756" duration="4871000" />
+      <workItem from="1578967651434" duration="4192000" />
+      <workItem from="1579050408852" duration="5299000" />
+      <workItem from="1579055943268" duration="3849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDemo_testDemo_(1) - 2020.01.15 at 09h 53m 09s.xml">
+      <configuration name="TestDemo.testDemo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo_(1) - 2020.01.15 at 09h 53m 19s.xml">
+      <configuration name="TestDemo.testDemo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_TEstDemo2 - 2020.01.15 at 09h 53m 56s.xml">
+      <configuration name="TestDemo.TEstDemo2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_test - 2020.01.15 at 09h 54m 13s.xml">
+      <configuration name="TestDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo - 2020.01.15 at 09h 54m 27s.xml">
+      <configuration name="TestDemo.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo - 2020.01.15 at 09h 55m 00s.xml">
+      <configuration name="TestDemo.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo - 2020.01.15 at 09h 57m 12s.xml">
+      <configuration name="TestDemo.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo - 2020.01.15 at 09h 57m 28s.xml">
+      <configuration name="TestDemo.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo - 2020.01.15 at 09h 57m 33s.xml">
+      <configuration name="TestDemo.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDemo_testDemo_(2) - 2020.01.15 at 09h 58m 17s.xml">
+      <configuration name="TestDemo.testDemo (2)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.21641791" />
+      <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.21428572" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.5969664" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4989339" visible="true" weight="0.35536295" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.1881663" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nc-user/nc-user-service/src/main/java/com/nc/user/controller/UserController.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-common/src/main/java/com/nc/auth/utils/RsaUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="89" column="27" lean-forward="true" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-common/src/main/java/com/nc/auth/utils/ObjectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-common/src/main/java/com/nc/common/utils/CodecUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-service/src/test/java/com/nc/auth/test/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-user/nc-user-service/src/test/java/com/nc/user/test/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/NcAuthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.35/tomcat-embed-core-8.5.35.jar!/org/apache/catalina/connector/ResponseFacade.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.11.RELEASE/spring-web-5.0.11.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="175" column="4" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-item/nc-item-interface/src/main/java/com/nc/item/api/BrandApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-search/src/main/java/com/nc/search/client/BrandClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc_sms_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc_sms_service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/JDK8_64/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#3862#3863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/NcItemServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-user/nc-user-interface/src/main/java/com/nc/user/api/UserApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="e#9214#9215#0" expanded="true" />
+            <element signature="e#9239#9240#0" expanded="true" />
+            <element signature="e#12448#12449#0" expanded="true" />
+            <element signature="e#12480#12481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.11.RELEASE/spring-web-5.0.11.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.11.RELEASE/spring-webmvc-5.0.11.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.11.RELEASE/spring-webmvc-5.0.11.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="488" selection-start-line="488" selection-end-line="488" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-user/nc-user-service/src/main/java/com/nc/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-user/nc-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-user/nc-user-service/src/main/java/com/nc/user/NcUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-registry/src/main/java/com/nc/common/registry/NcRegistryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-goods-web/src/main/java/com/nc/goods/NcGoodsWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-user/nc-user-service/src/main/java/com/nc/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2476">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-auth/nc-auth-service/src/main/java/com/nc/auth/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc_sms_service/src/main/java/com/nc/NcSMSApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-search/src/main/java/com/nc/search/repository/GoodsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-search/src/main/java/com/nc/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-search/src/main/java/com/nc/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="160" column="58" selection-start-line="160" selection-start-column="52" selection-end-line="160" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-goods-web/src/main/java/com/nc/goods/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-goods-web/src/main/resources/templates/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="716" column="19" selection-start-line="716" selection-start-column="12" selection-end-line="716" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/config/JwtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/config/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/pojo/Cart.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-item/nc-item-service/src/main/java/com/nc/item/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="182" column="48" selection-start-line="182" selection-start-column="48" selection-end-line="182" selection-end-column="48" />
+          <folding>
+            <element signature="e#5920#5921#0" expanded="true" />
+            <element signature="e#5951#5952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/client/GoodsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-item/nc-item-interface/src/main/java/com/nc/item/api/GoodsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/java/com/nc/cart/NcCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nc-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nc_sms_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

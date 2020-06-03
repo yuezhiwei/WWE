@@ -1,0 +1,4 @@
+com\nc\user\service\UserService.class
+com\nc\user\controller\UserController.class
+com\nc\user\NcUserApplication.class
+com\nc\user\mapper\UserMapper.class

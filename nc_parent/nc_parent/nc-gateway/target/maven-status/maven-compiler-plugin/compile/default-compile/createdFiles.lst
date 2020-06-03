@@ -1,0 +1,5 @@
+com\nc\gateway\config\NcCorsConfig.class
+com\nc\gateway\filter\LoginFilter.class
+com\nc\gateway\config\FilterProperties.class
+com\nc\gateway\config\JwtProperties.class
+com\nc\gateway\NcGatewayApplication.class

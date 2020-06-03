@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.nc.search.test.TestDemo
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.007 s <<< FAILURE! - in com.nc.search.test.TestDemo
+test(com.nc.search.test.TestDemo)  Time elapsed: 0 s  <<< ERROR!
+java.lang.RuntimeException: com.netflix.client.ClientException: Load balancer does not have available server for client: item-service
+	at com.nc.search.test.TestDemo.test(TestDemo.java:25)
+Caused by: com.netflix.client.ClientException: Load balancer does not have available server for client: item-service
+	at com.nc.search.test.TestDemo.test(TestDemo.java:25)
+

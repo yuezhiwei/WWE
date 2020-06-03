@@ -1,0 +1,13 @@
+com\nc\item\pojo\Category.class
+com\nc\item\api\GoodsApi.class
+com\nc\item\api\SpecificationApi.class
+com\nc\item\pojo\Brand.class
+com\nc\item\pojo\SpecParam.class
+com\nc\item\pojo\SpuDetail.class
+com\nc\item\pojo\SpuBo.class
+com\nc\item\pojo\SpecGroup.class
+com\nc\item\api\CategoryApi.class
+com\nc\item\pojo\Sku.class
+com\nc\item\pojo\Spu.class
+com\nc\item\api\BrandApi.class
+com\nc\item\pojo\Stock.class

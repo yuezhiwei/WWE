@@ -1,0 +1,11 @@
+F:\nc_parent\nc-search\src\main\java\com\nc\search\client\SpecificationClient.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\controller\SearchController.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\pojo\SearchRequest.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\pojo\Goods.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\listener\GoodsListener.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\NcSearchServiceApplication.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\client\CategoryClient.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\client\GoodsClient.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\client\BrandClient.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\service\SearchService.java
+F:\nc_parent\nc-search\src\main\java\com\nc\search\repository\GoodsRepository.java

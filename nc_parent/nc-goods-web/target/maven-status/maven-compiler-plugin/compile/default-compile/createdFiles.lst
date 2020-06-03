@@ -1,0 +1,10 @@
+com\nc\goods\service\GoodsHtmlService.class
+com\nc\goods\client\CategoryClient.class
+com\nc\goods\NcGoodsWebApplication.class
+com\nc\goods\utils\ThredUtils.class
+com\nc\goods\controller\GoodsController.class
+com\nc\goods\service\GoodsService.class
+com\nc\goods\client\GoodsClient.class
+com\nc\goods\client\SpecificationClient.class
+com\nc\goods\client\BrandClient.class
+com\nc\goods\listener\GoodsListener.class

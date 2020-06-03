@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.nc.search.test.ElasticsearchTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 15.443 s <<< FAILURE! - in com.nc.search.test.ElasticsearchTest
+testInsertIndex(com.nc.search.test.ElasticsearchTest)  Time elapsed: 0.071 s  <<< ERROR!
+org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{H2H-zeT7TH6bwECIsqVJ1w}{192.168.211.138}{192.168.211.138:9300}]
+	at com.nc.search.test.ElasticsearchTest.testInsertIndex(ElasticsearchTest.java:38)
+
+spuToGoods(com.nc.search.test.ElasticsearchTest)  Time elapsed: 2.157 s  <<< ERROR!
+java.lang.RuntimeException: com.netflix.client.ClientException: Load balancer does not have available server for client: item-service
+	at com.nc.search.test.ElasticsearchTest.spuToGoods(ElasticsearchTest.java:47)
+Caused by: com.netflix.client.ClientException: Load balancer does not have available server for client: item-service
+	at com.nc.search.test.ElasticsearchTest.spuToGoods(ElasticsearchTest.java:47)
+

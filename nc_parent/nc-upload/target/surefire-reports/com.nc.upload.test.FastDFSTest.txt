@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.nc.upload.test.FastDFSTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 9.465 s <<< FAILURE! - in com.nc.upload.test.FastDFSTest
+testUploadAndCreateThumb(com.nc.upload.test.FastDFSTest)  Time elapsed: 0.702 s  <<< ERROR!
+com.github.tobato.fastdfs.exception.FdfsConnectException: 无法获取服务端连接资源：can't create connection to/192.168.211.138:22122
+	at com.nc.upload.test.FastDFSTest.testUploadAndCreateThumb(FastDFSTest.java:43)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at com.nc.upload.test.FastDFSTest.testUploadAndCreateThumb(FastDFSTest.java:43)
+
+testUpload(com.nc.upload.test.FastDFSTest)  Time elapsed: 0.013 s  <<< ERROR!
+java.lang.RuntimeException: Unable to borrow buffer from pool
+	at com.nc.upload.test.FastDFSTest.testUpload(FastDFSTest.java:31)
+Caused by: com.github.tobato.fastdfs.exception.FdfsUnavailableException: 无法获取服务端连接资源：找不到可用的tracker /192.168.211.138:22122,
+	at com.nc.upload.test.FastDFSTest.testUpload(FastDFSTest.java:31)
+

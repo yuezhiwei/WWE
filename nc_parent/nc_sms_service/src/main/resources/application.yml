@@ -1,0 +1,18 @@
+server:
+  port: 8086
+spring:
+  redis:
+    host: 192.168.211.138
+  application:
+    name: sms-service
+  rabbitmq:
+    host: 192.168.211.138
+    username: nc
+    password: nc
+    virtual-host: /nc
+nc:
+  sms:
+    accessKeyId: LTAIXAx4qNIbb8Jl # 你自己的accessKeyId
+    accessKeySecret: E7J08YBkoRVTszlPuELZwxUHIIHBtM # 你自己的AccessKeySecret
+    signName: nc网 # 签名名称
+    verifyCodeTemplate: SMS_170842137 # 模板名称

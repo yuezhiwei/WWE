@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-auth/nc-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-auth/nc-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-goods-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-item/nc-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-item/nc-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-user/nc-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc-user/nc-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nc_sms_service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

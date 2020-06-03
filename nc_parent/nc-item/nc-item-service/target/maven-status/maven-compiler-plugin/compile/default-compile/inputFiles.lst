@@ -1,0 +1,17 @@
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\NcItemServiceApplication.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\BrandMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\service\CategoryService.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\service\GoodsService.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\controller\CategoryController.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\SpuDetailMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\SpuMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\CategoryMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\controller\GoodsController.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\StockMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\controller\BrandController.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\SpecGroupMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\service\BrandService.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\SpecParamMapper.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\service\SpecificationService.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\controller\SpecificationController.java
+F:\nc_parent\nc-item\nc-item-service\src\main\java\com\nc\item\mapper\SkuMapper.java

@@ -1,0 +1,13 @@
+com\nc\search\client\BrandClient.class
+com\nc\search\client\CategoryClient.class
+com\nc\search\listener\GoodsListener.class
+com\nc\search\service\SearchService.class
+com\nc\search\controller\SearchController.class
+com\nc\search\pojo\Goods.class
+com\nc\search\repository\GoodsRepository.class
+com\nc\search\NcSearchServiceApplication.class
+com\nc\search\pojo\SearchRequest.class
+com\nc\search\service\SearchService$1.class
+com\nc\search\client\GoodsClient.class
+com\nc\search\service\SearchService$2.class
+com\nc\search\client\SpecificationClient.class

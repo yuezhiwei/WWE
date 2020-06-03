@@ -1,0 +1,17 @@
+com\nc\item\controller\GoodsController.class
+com\nc\item\NcItemServiceApplication.class
+com\nc\item\mapper\BrandMapper.class
+com\nc\item\controller\BrandController.class
+com\nc\item\mapper\SpecGroupMapper.class
+com\nc\item\controller\SpecificationController.class
+com\nc\item\mapper\SkuMapper.class
+com\nc\item\service\BrandService.class
+com\nc\item\mapper\SpecParamMapper.class
+com\nc\item\mapper\SpuMapper.class
+com\nc\item\mapper\CategoryMapper.class
+com\nc\item\mapper\StockMapper.class
+com\nc\item\service\GoodsService.class
+com\nc\item\controller\CategoryController.class
+com\nc\item\mapper\SpuDetailMapper.class
+com\nc\item\service\SpecificationService.class
+com\nc\item\service\CategoryService.class

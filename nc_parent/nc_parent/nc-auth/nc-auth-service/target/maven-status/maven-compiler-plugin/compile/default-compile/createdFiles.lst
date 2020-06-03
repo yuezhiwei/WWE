@@ -1,0 +1,5 @@
+com\nc\auth\client\UserClient.class
+com\nc\auth\config\JwtProperties.class
+com\nc\auth\NcAuthApplication.class
+com\nc\auth\controller\AuthController.class
+com\nc\auth\service\AuthService.class

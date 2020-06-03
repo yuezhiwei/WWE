@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nc-auth-service" />
+        <module name="nc_sms_service" />
+        <module name="nc-cart" />
+        <module name="nc-user-service" />
+        <module name="nc-registry" />
+        <module name="nc-goods-web" />
+        <module name="nc-auth-common" />
+        <module name="nc-item-service" />
+        <module name="nc-item-interface" />
+        <module name="nc-gateway" />
+        <module name="nc-upload" />
+        <module name="nc-search" />
+        <module name="nc-common" />
+        <module name="nc-user-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nc-sms-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="nc-auth" options="-parameters" />
+      <module name="nc-auth-common" options="-parameters" />
+      <module name="nc-auth-service" options="-parameters" />
+      <module name="nc-cart" options="-parameters" />
+      <module name="nc-common" options="-parameters" />
+      <module name="nc-gateway" options="-parameters" />
+      <module name="nc-goods-web" options="-parameters" />
+      <module name="nc-item" options="-parameters" />
+      <module name="nc-item-interface" options="-parameters" />
+      <module name="nc-item-service" options="-parameters" />
+      <module name="nc-registry" options="-parameters" />
+      <module name="nc-search" options="-parameters" />
+      <module name="nc-sms-service" options="-parameters" />
+      <module name="nc-upload" options="-parameters" />
+      <module name="nc-user" options="-parameters" />
+      <module name="nc-user-interface" options="-parameters" />
+      <module name="nc-user-service" options="-parameters" />
+      <module name="nc_sms_service" options="-parameters" />
+    </option>
+  </component>
+</project>
